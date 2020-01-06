@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  LastImport="2020-01-06T17:41:44.0683060+01:00">
+  <Files>
+    <Url
+      Source="../../../../dotnetpro/dnp_MitWordMakrosArbeiten.docx"
+      AbsoluteSource="file:///C:/Users/Matthias/OneDrive - Redaktionsbüro Matthias Lohrer/dotnetpro/dnp_MitWordMakrosArbeiten.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/dnp_MitWordMakrosArbeiten/Mit Word Makros arbeiten.jpg"
+      TimeStamp="06.01.2020 17:41:41" />
+    <Url
+      Source="../../Content/Mit Word Makros arbeiten.htm"
+      TimeStamp="06.01.2020 17:41:41" />
+    <Url
+      Source="../../Content/Resources/Images/dnp_MitWordMakrosArbeiten/Ein Makro aufzeichnen.png"
+      TimeStamp="06.01.2020 17:41:41" />
+    <Url
+      Source="../../Content/Resources/Images/dnp_MitWordMakrosArbeiten/Ein Makro aufzeichnen_1.png"
+      TimeStamp="06.01.2020 17:41:41" />
+    <Url
+      Source="../../Content/Ein Makro aufzeichnen.htm"
+      TimeStamp="06.01.2020 17:41:41" />
+    <Url
+      Source="../../Content/Resources/Images/dnp_MitWordMakrosArbeiten/Einem Makro eine Tastenkombination.png"
+      TimeStamp="06.01.2020 17:41:41" />
+    <Url
+      Source="../../Content/Resources/Images/dnp_MitWordMakrosArbeiten/Einem Makro eine Tastenkombination_1.png"
+      TimeStamp="06.01.2020 17:41:41" />
+    <Url
+      Source="../../Content/Einem Makro eine Tastenkombination.htm"
+      TimeStamp="06.01.2020 17:41:41" />
+    <Url
+      Source="../../Content/Testseite.htm"
+      TimeStamp="06.01.2020 17:41:41" />
+    <Url
+      Source="../../Content/Index.htm"
+      TimeStamp="06.01.2020 17:41:41" />
+    <Url
+      Source="../TOCs/dnp_MitWordMakrosArbeiten.fltoc"
+      TimeStamp="06.01.2020 17:41:41" />
+    <Url
+      Source="../../Content/Resources/MasterPages/dnp_MitWordMakrosArbeiten.flmsp"
+      TimeStamp="06.01.2020 17:41:41" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/dnp_MitWordMakrosArbeiten.css"
+      TimeStamp="06.01.2020 17:41:41" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Fußzeile"
+      To="p.Fußzeile"
+      Style="Word" />
+    <Map
+      From="Index 1"
+      To="p.Index1"
+      Style="Word" />
+    <Map
+      From="Index 2"
+      To="p.Index2"
+      Style="Word" />
+    <Map
+      From="Inhaltsverzeichnisüberschrift"
+      To="p.Inhaltsverzeichnisüberschrift"
+      Style="Word" />
+    <Map
+      From="Kopfzeile"
+      To="p.Kopfzeile"
+      Style="Word" />
+    <Map
+      From="RedMLÄnderung"
+      To="p.RedMLÄnderung"
+      Style="Word" />
+    <Map
+      From="RedMLEinzelschritt"
+      To="p.RedMLEinzelschritt"
+      Style="Word" />
+    <Map
+      From="RedMLEinzelschrittResultat"
+      To="p.RedMLEinzelschrittResultat"
+      Style="Word" />
+    <Map
+      From="RedMLEinzelschrittResultatTipp"
+      To="p.RedMLEinzelschrittResultatTipp"
+      Style="Word" />
+    <Map
+      From="RedMLEinzelschrittTipp"
+      To="p.RedMLEinzelschrittTipp"
+      Style="Word" />
+    <Map
+      From="RedMLFliesstext"
+      To="p.RedMLFliesstext"
+      Style="Word" />
+    <Map
+      From="Überschrift 1"
+      To="p.Überschrift1"
+      Style="Word" />
+    <Map
+      From="Überschrift 2"
+      To="p.Überschrift2"
+      Style="Word" />
+    <Map
+      From="Verzeichnis 1"
+      To="p.Verzeichnis1"
+      Style="Word" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.Hyperlink"
+      Style="Word" />
+    <Map
+      From="RedMLZGUI"
+      To="span.RedMLZGUI"
+      Style="Word" />
+    <Map
+      From="RedMLZWingdings2"
+      To="span.RedMLZWingdings2"
+      Style="Word" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Überschrift 1" />
+  </NewTopicStyles>
+</MsWordImport>

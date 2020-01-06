@@ -1,0 +1,376 @@
+/*<meta />*/
+
+/*<meta sourceDocument="C:\Users\Matthias\OneDrive - Redaktionsbüro Matthias Lohrer\dotnetpro\dnp_MitWordMakrosArbeiten.docx" />*/
+
+p
+{
+	font-family: Gadugi;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	font-size: 10pt;
+}
+
+ol
+{
+	font-family: Gadugi;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	font-size: 10pt;
+}
+
+ul
+{
+	font-family: Gadugi;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	font-size: 10pt;
+}
+
+li
+{
+	font-family: Gadugi;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	font-size: 10pt;
+}
+
+td
+{
+	font-family: Gadugi;
+	vertical-align: top;
+}
+
+p.Kopfzeile
+{
+	font-family: Gadugi;
+	font-size: 9pt;
+}
+
+p.Fu\0000DFzeile
+{
+	font-family: Gadugi;
+}
+
+p.Inhaltsverzeichnis\0000FCberschrift
+{
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	margin-left: 0pt;
+	text-indent: 18pt;
+	font-weight: bold;
+	font-size: 12pt;
+	page-break-before: always;
+	margin-top: 12pt;
+	margin-bottom: 12pt;
+	mc-heading-level: 10;
+	font-family: Gadugi;
+}
+
+p.Verzeichnis1
+{
+	margin-bottom: 5pt;
+	font-family: Gadugi;
+}
+
+p.\0000DCberschrift2
+{
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	margin-top: 2pt;
+	mc-heading-level: 2;
+	font-family: 'Calibri Light';
+	color: #2F5496;
+	font-size: 13pt;
+}
+
+img.img_1
+{
+	visibility: visible;
+	mso-wrap-style: square;
+	width: 316px;
+	height: 164px;
+}
+
+p.p_1
+{
+	margin-bottom: 8pt;
+	text-align: center;
+}
+
+p.p_2
+{
+	margin-bottom: 8pt;
+	text-align: center;
+	font-family: 'Arial Black';
+	font-size: 26pt;
+}
+
+span.span_1
+{
+	font-family: 'Arial Black';
+	font-size: 16pt;
+}
+
+span.span_2
+{
+	font-family: 'Arial Black';
+	font-size: 12pt;
+}
+
+p.p_3
+{
+	margin-bottom: 8pt;
+	text-align: center;
+	font-family: 'Arial Black';
+	font-size: 12pt;
+}
+
+p.\0000DCberschrift1
+{
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	page-break-before: always;
+	margin-bottom: 14pt;
+	mc-heading-level: 1;
+	font-family: Gadugi;
+	font-weight: bold;
+	font-size: 12pt;
+}
+
+li.\0000DCberschrift1
+{
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	page-break-before: always;
+	margin-bottom: 14pt;
+	mc-heading-level: 1;
+	font-family: Gadugi;
+	font-weight: bold;
+	font-size: 12pt;
+}
+
+p.RedMLFliesstext
+{
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	font-family: Gadugi;
+}
+
+p.RedMLEinzelschritt
+{
+	page-break-after: avoid;
+	margin-top: 9pt;
+	margin-bottom: 3pt;
+	margin-left: 28pt;
+	text-indent: -20pt;
+	font-family: Gadugi;
+}
+
+span.RedMLZWingdings2
+{
+	font-size: 12pt;
+}
+
+span.RedMLZGUI
+{
+	font-weight: bold;
+}
+
+p.RedMLEinzelschrittResultat
+{
+	margin-top: 3pt;
+	margin-bottom: 3pt;
+	margin-left: 28pt;
+	font-family: Gadugi;
+}
+
+a.Hyperlink
+{
+	color: #0563C1;
+	text-decoration: underline;
+}
+
+li.\0000DCberschrift1_1
+{
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	page-break-before: always;
+	margin-bottom: 14pt;
+	mc-heading-level: 1;
+	font-family: Gadugi;
+	font-weight: bold;
+	font-size: 12pt;
+	margin-left: 18pt;
+}
+
+ol.ol_1
+{
+	padding-left: 0px;
+	list-style-type: decimal;
+	margin-left: 18pt;
+}
+
+span.RedMLZWingdings2_1
+{
+	font-size: 12pt;
+	font-family: 'Wingdings 2';
+}
+
+span.span_3
+{
+	font-family: Wingdings;
+}
+
+img.img_2
+{
+	visibility: visible;
+	mso-wrap-style: square;
+	width: 280px;
+	height: 210px;
+}
+
+col.col_1
+{
+	width: 340pt;
+}
+
+col.col_2
+{
+	width: 56pt;
+}
+
+td.td_1
+{
+	background-color: #auto;
+	border-top-style: solid;
+	border-top-width: 1pt;
+	border-top-color: #D9D9D9;
+	border-left-style: solid;
+	border-left-width: 1pt;
+	border-left-color: #D9D9D9;
+	border-right-style: solid;
+	border-right-width: 1pt;
+	border-right-color: #D9D9D9;
+	border-bottom-style: solid;
+	border-bottom-width: 1pt;
+	border-bottom-color: #D9D9D9;
+}
+
+img.img_3
+{
+	visibility: visible;
+	mso-wrap-style: square;
+	width: 49px;
+	height: 49px;
+}
+
+td.td_2
+{
+	background-color: #auto;
+	border-top-style: solid;
+	border-top-width: 1pt;
+	border-top-color: #D9D9D9;
+	border-right-style: solid;
+	border-right-width: 1pt;
+	border-right-color: #D9D9D9;
+	border-bottom-style: solid;
+	border-bottom-width: 1pt;
+	border-bottom-color: #D9D9D9;
+}
+
+tr.tr_1
+{
+	height: 55pt;
+}
+
+table.table_1
+{
+	border-collapse: collapse;
+}
+
+p.RedMLEinzelschrittTipp
+{
+	page-break-after: avoid;
+	margin-top: 0pt;
+	margin-bottom: 6pt;
+	margin-left: 57pt;
+	text-indent: -28pt;
+	font-family: Gadugi;
+}
+
+p.RedMLEinzelschrittResultatTipp
+{
+	page-break-after: avoid;
+	margin-top: 0pt;
+	margin-bottom: 6pt;
+	margin-left: 57pt;
+	text-indent: -28pt;
+	background-color: #D9D9D9;
+	font-family: Gadugi;
+}
+
+span.span_4
+{
+	font-family: Webdings;
+}
+
+img.img_4
+{
+	visibility: visible;
+	mso-wrap-style: square;
+	width: 417px;
+	height: 300px;
+}
+
+img.img_5
+{
+	visibility: visible;
+	mso-wrap-style: square;
+	width: 416px;
+	height: 278px;
+}
+
+span.span_5
+{
+	font-family: 'Wingdings 2';
+}
+
+p.RedML\0000C4nderung
+{
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	font-family: Gadugi;
+	color: #00B0F0;
+}
+
+p.Index1
+{
+	margin-left: 0pt;
+	text-indent: 10pt;
+	font-family: Gadugi;
+}
+
+p.Index2
+{
+	margin-left: 20pt;
+	text-indent: -10pt;
+	font-family: Gadugi;
+}
+
+p.Kopfzeile_1
+{
+	font-family: Gadugi;
+	font-size: 9pt;
+	border-bottom-style: solid;
+	border-bottom-width: 1pt;
+	border-bottom-color: black;
+}
+
+p.Fu\0000DFzeile_1
+{
+	font-family: Gadugi;
+	border-top-style: solid;
+	border-top-width: 1pt;
+	border-top-color: black;
+}
+

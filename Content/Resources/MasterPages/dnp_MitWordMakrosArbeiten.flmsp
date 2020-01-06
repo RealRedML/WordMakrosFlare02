@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head><title></title>
+        <link href="../Stylesheets/dnp_MitWordMakrosArbeiten.css" rel="stylesheet" />
+    </head>
+    <body>
+        <div>
+            <p class="Kopfzeile_1">Mit Word-Makros arbeiten&#160;&#160;&#160;&#160;Index</p>
+        </div>
+        <MadCap:bodyProxy />
+        <div>
+            <p class="Fußzeile_1">Ich erklär's!&#160;&#160;&#160;&#160;RedML.de&#160;&#160;&#160;&#160;Seite 1 von 1</p>
+        </div>
+    </body>
+</html>
